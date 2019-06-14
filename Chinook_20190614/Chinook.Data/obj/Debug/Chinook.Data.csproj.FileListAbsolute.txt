@@ -1,0 +1,12 @@
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\Chinook.Data.dll.config
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\Chinook.Data.dll
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\Chinook.Data.pdb
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\EntityFramework.dll
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\EntityFramework.SqlServer.dll
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\EntityFramework.xml
+D:\IoT\C#\Chinook_20190614\Chinook.Data\bin\Debug\EntityFramework.SqlServer.xml
+D:\IoT\C#\Chinook_20190614\Chinook.Data\obj\Debug\Chinook.Data.csprojAssemblyReference.cache
+D:\IoT\C#\Chinook_20190614\Chinook.Data\obj\Debug\Chinook.Data.csproj.CoreCompileInputs.cache
+D:\IoT\C#\Chinook_20190614\Chinook.Data\obj\Debug\Chinook.Data.csproj.CopyComplete
+D:\IoT\C#\Chinook_20190614\Chinook.Data\obj\Debug\Chinook.Data.dll
+D:\IoT\C#\Chinook_20190614\Chinook.Data\obj\Debug\Chinook.Data.pdb

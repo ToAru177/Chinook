@@ -1,0 +1,15 @@
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.TestConsole.exe.config
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.TestConsole.exe
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.TestConsole.pdb
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.Data.dll
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\EntityFramework.dll
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.Data.pdb
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\Chinook.Data.dll.config
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\EntityFramework.xml
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\obj\Debug\Chinook.TestConsole.csprojAssemblyReference.cache
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\obj\Debug\Chinook.TestConsole.csproj.CoreCompileInputs.cache
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\obj\Debug\Chinook.TestConsole.csproj.CopyComplete
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\obj\Debug\Chinook.TestConsole.exe
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\obj\Debug\Chinook.TestConsole.pdb
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\EntityFramework.SqlServer.dll
+D:\IoT\C#\Chinook_20190614\Chinook.TestConsole\bin\Debug\EntityFramework.SqlServer.xml
